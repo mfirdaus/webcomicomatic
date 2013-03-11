@@ -1,7 +1,9 @@
 Webcomicomatic - A comic bookmark/queueing thing built especially for mobile devices
 ========
 
+Demo: http://dl.dropbox.com/u/7052452/show_comic.htm
 This script was meant to replace a folder of webcomic bookmarks that I go through everyday. Further more, a folder full of bookmarks is really bad on a mobile device.
+
 
 How to use
 ----------
